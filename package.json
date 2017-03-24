@@ -8,5 +8,5 @@
     "start": "NODE_EVN=production node app.js"
   },
   "author": "XU Kai (xukai.ken@gmail.com)",
-  "license": "MIT"
+  "license": "MIT" 
 }
