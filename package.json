@@ -1,0 +1,12 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "for download all the video files from the specific webside.",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start": "NODE_EVN=production node app.js"
+  },
+  "author": "XU Kai (xukai.ken@gmail.com)",
+  "license": "MIT"
+}
